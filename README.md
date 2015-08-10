@@ -29,7 +29,7 @@ mccHTTP is a light-weight DLL that allows you to:
 * ```\mcchttp\readme.txt            ``` - This File
 * ```\mcchttp\mcchttp.dll           ``` - The mccHTTP dll file.
 
-**NOTE:** The mcchttp.dll file should be place in a directory that is
+**NOTE:** The ```mcchttp.dll``` file should be place in a directory that is
 part of the path i.e. ```c:\windows\system32\```
 
 

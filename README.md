@@ -6,7 +6,7 @@ runs under Windows 95/98/NT/2000/XP and can be used with any programming
 language that can call DLLs.
 
 
-FEATURES:
+## FEATURES:
 
 mccHTTP is a light-weight DLL that allows you to:
 
@@ -15,18 +15,6 @@ mccHTTP is a light-weight DLL that allows you to:
 * works with proxy servers.
 * can download static and dynamic web pages.
 * uses HTTP 1.1 protocol and resolves 301/302 move errors.
-
-
-## REGISTRATION:
-
-To register your copy goto http://www.makonin.com/components.shtml.
-Click the "Buy Now" button under the component you wish to register.
-
-
-## TECHNICAL SUPPORT
-
-We provide free technical support. Email support@makonin.com.
-
 
 ## FILES IN THIS PACKAGE:
 
